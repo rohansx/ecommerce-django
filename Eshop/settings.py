@@ -145,4 +145,4 @@ MEDIA_ROOT = BASE_DIR
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage
 
-DEBUG_COLLECTSTATIC=1
+DISABLE_COLLECTSTATIC=1
