@@ -144,3 +144,5 @@ MEDIA_ROOT = BASE_DIR
 # https://warehouse.python.org/project/whitenoise/
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage
+
+DEBUG_COLLECTSTATIC=1
